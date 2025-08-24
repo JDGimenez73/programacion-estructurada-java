@@ -1,5 +1,3 @@
-readme_path = "/mnt/data/README.md"
-
 content = """# Trabajo Práctico 2: Programación Estructurada
 
 **Materia:** Programación II – Tecnicatura Universitaria en Programación a Distancia  
